@@ -31,10 +31,6 @@ const userSchema = mongoose.Schema({
     token: {
         type : String
     },
-    token: {
-        type : String
-    },
-
     tokenExp:{
         type:Number
     }
